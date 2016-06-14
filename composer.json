@@ -1,5 +1,5 @@
 {
-    "name": "mosch/git",
+    "name": "ankalagon/git",
     "description": "A Git wrapper for PHP5.3+",
     "license": "MIT",
     "minimum-stability": "stable",
@@ -11,7 +11,11 @@
         {
             "name": "Moritz Schwoerer",
             "email": "mr.mosch@gmail.com"
-        }
+        },
+	{
+	    "name": "Piotr Suszalski",
+            "email": "piotr@suszalski.pl"
+	}
     ],
     "require": {
         "php": ">=5.3.2",
